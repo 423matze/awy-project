@@ -1,0 +1,10 @@
+{
+    "images": [
+        {"src":"image1.jpg", "title": "Bild 1"},
+        {"src":"image2.jpg", "title": "Zweites Bild"},
+        {"src":"image3.jpg", "title": "Drittes Bild"},
+        {"src":"image4.jpg", "title": "Viertes Bild"},
+        {"src":"image5.jpg", "title": "Fünftes Bild"},
+        {"src":"image6.jpg", "title": "Neuses Bild"}
+    ]
+}

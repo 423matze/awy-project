@@ -1,0 +1,9 @@
+<!-- Navigation Partial -->
+<div class="gallery box">
+{% for image in images %}
+    <div class="gallery-item">
+    <!-- <img src="{{src}}" alt="{{alt}}"> -->
+        <p><span>{{image.src}}<span>{{image.title}}</p>
+    </div>
+{% endfor %}
+</div>

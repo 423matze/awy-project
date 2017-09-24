@@ -1,0 +1,12 @@
+{% extends "layout.njk" %}
+{% block content %}
+<nav class="box">
+{% import 'macros/nav-macro.njk' as nav %}
+{{ nav.active('home') }}
+</nav>
+<div class="box">
+    <h1 class="h1tiltle">My first nuniuck Index file in grün</h1>
+    <p>Ein kleiner Untertitel länger und länger</p>
+</div>
+{% include 'partials/gallery.njk'%}
+{% endblock %}

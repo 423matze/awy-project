@@ -1,0 +1,28 @@
+# osx noise
+.DS_Store
+profile
+
+#ignore sass caches
+.sass-cache
+
+#ignore sublime projects
+.sublime-project
+.sublime-workspace
+.vscode
+
+#ignore packages 
+node_modules
+bower_components
+jspm_packages
+
+#ignore generated files and folders
+.publish
+*.html
+*.css
+dist
+
+# Ignore secrets
+secrets.json
+
+#weiter files
+readme.txt

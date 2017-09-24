@@ -1,0 +1,27 @@
+{
+  "name": "project_awy",
+  "description": "my first dev  inviroment",
+  "main": "index.html",
+  "authors": [
+    "matze lenz 423"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test",
+    "matze",
+    "423"
+  ],
+  "homepage": "http://423.ch",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "susy": "^3.0.1"
+  }
+}

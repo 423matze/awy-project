@@ -1,0 +1,11 @@
+{% extends "layout.njk" %}
+{% block content %}
+<nav class="box">
+{% import 'macros/nav-macro.njk' as nav %}
+{{ nav.active('about') }}
+</nav>
+<div class="box">
+    <h1 class="h1tiltle">About</h1>
+    <p>Ein weitere Seite</p>
+</div>
+{% endblock %}
