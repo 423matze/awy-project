@@ -3,7 +3,6 @@ $(document).ready(function() {
       console.log('hallo');
     };
   });
-
 function grid(val) {
   console.log(val);
   return '1900';
