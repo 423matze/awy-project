@@ -16,13 +16,15 @@ module.exports = function(config) {
     // list of files / patterns to load in the browser
     files: [
       'app/bower_components/jquery/dist/jquery.js',
-      'app/**/*.js',
+      'app/js/**/*.js',
       'test/**/*.js'
     ],
 
 
     // list of files to exclude
     exclude: [
+      // 'app/bower_components/**/*.js',
+      // 'app/bower_components/**/*.scss'
     ],
 
 
