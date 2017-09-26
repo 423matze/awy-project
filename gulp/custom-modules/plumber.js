@@ -1,6 +1,5 @@
 var notify = require('gulp-notify');
 var plumber = require('gulp-plumber');
-
 //
 function customPlumber(errTitle){
     if (process.env.CI) {
