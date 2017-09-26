@@ -1,6 +1,6 @@
 $(document).ready(function() {
     console.log('testing');
-  })
+  });
 
 function addNumbers(num1, num2) {
   return num1 + num2;
