@@ -1,16 +1,15 @@
-var notify = require('gulp-notify');
-var plumber = require('gulp-plumber');
+var $ = require('gulp-load-plugins')();
 //
 function customPlumber(errTitle){
     if (process.env.CI) {
-        return plumber({
+        return $.plumber({
         errorHandler: function(err) {
-        throw Error(err.message);
+        throw Error($.util.colors.red(err.message));
         }
         });
     } else {
-        return plumber({
-        errorHandler: notify.onError({
+        return $.plumber({
+        errorHandler: $.notify.onError({
             title: errTitle || "Error runnig Gulp MAL",
             message: "Error: <%= error.message %>"
         })
