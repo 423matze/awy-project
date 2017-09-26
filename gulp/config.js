@@ -1,8 +1,8 @@
 var config = {
     
       fonts: {
-        src: 'app/fonts/**/*',
-        dest: 'dist/fonts'
+        src: 'app/fonts',
+        dest: 'dist'
       },
     
       images: {
@@ -36,7 +36,9 @@ var config = {
         src: 'app/pages/**/*.+(html|nunjucks|njk)',
         data: './app/data/data.json',
         templates: ['app/templates/'],
+        render : { path : ['app/templates/'] },
         dest: 'app',
+        data: './app/data/data.json',
         watch: [
           'app/pages/**/*.+(html|nunjucks|njk)',
           'app/templates/**/*',
@@ -69,10 +71,14 @@ var config = {
           ]
         }
       },
-    
+
       useref: {
         src: 'app/*.html',
         dest: 'dist'
+      },
+
+      dist: {
+        src: ['dist/**/*','!dist/images','dist/images/**/*']
       }
     };
     
