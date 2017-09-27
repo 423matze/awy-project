@@ -5,7 +5,7 @@ var browserSync = require('browser-sync');
 var config = require('../config');
 //
 gulp.task('watch', function(){
-    gulp.watch(config.sass.src, ['sass', 'lint:css']);
+    gulp.watch(config.sass.src, ['sass', 'lint:scss']);
     gulp.watch('config.js.src', ['watch-js']);
     gulp.watch(config.nunjucks.watch, ['nunjucks']);     
 });

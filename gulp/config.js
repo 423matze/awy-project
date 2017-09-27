@@ -1,8 +1,8 @@
 var config = {
     
       fonts: {
-        src: 'app/fonts',
-        dest: 'dist'
+        src: 'app/fonts/*',
+        dest: 'dist/fonts/'
       },
     
       images: {

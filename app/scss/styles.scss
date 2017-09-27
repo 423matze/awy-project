@@ -1,7 +1,7 @@
 // imports
-@import 'testing';
-@import 'susy/sass/susy';
-@import 'colors';
+@import "testing";
+@import "susy/sass/susy";
+@import "colors";
 
 // weiters
 $h1: 48px;
@@ -36,7 +36,6 @@ p {
 }
 
 .box {
-    display: flex;
     width: 80vw;
     margin: 5vh auto;
     border-radius: 2px;
@@ -59,16 +58,41 @@ a {
     }
 }
 
-
 .gallery {
-    width: 100%;
+    position: relative;
+    width: 80vw;
     display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    direction: center;
+    
+    h2 {
+        flex: 1 1 span(4);
+    }
 }
 
 .gallery-item {
+    position: relative;
+    flex: 1 1 span(2);
+    height: span(2);
     margin: 4px;
     padding: 6px;
-    min-width: 300px;
     background: $my-var;
     font-size: 16px;
+    overflow: hidden;
+
+    div {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 1em;
+    }
+
+    img {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+    }
 }

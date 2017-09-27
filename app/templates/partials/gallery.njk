@@ -1,9 +1,9 @@
-<!-- Navigation Partial -->
 <div class="gallery box">
+<h2>Das is ne Gallery</h2>
 {% for image in images %}
     <div class="gallery-item">
-    <!-- <img src="{{src}}" alt="{{alt}}"> -->
-        <p><span>{{image.src}}<span>{{image.title}}</p>
+        <img src="{{image.src}}" alt="{{image.title}}">       
+        <div><p><span>Bildname:<span>{{image.title}}</p></div>
     </div>
 {% endfor %}
 </div>

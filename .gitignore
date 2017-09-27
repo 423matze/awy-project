@@ -10,6 +10,7 @@ profile
 .sublime-workspace
 .vscode
 
+
 #ignore packages 
 node_modules
 bower_components
@@ -19,10 +20,11 @@ jspm_packages
 .publish
 *.html
 *.css
+
 dist
 
 # Ignore secrets
-secrets.json
+.server.json
 
 #weiter files
 readme.txt

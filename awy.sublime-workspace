@@ -1,0 +1,1092 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eventData",
+				"eventDataGast"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"_",
+				"_printdata"
+			],
+			[
+				"event",
+				"eventDataOrga"
+			],
+			[
+				"eventDa",
+				"eventDataOrga"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"Printa",
+				"printdata"
+			],
+			[
+				"emai",
+				"emaillink"
+			],
+			[
+				"zimmer",
+				"zimmerService"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"mrg",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"Zi",
+				"ZiNr"
+			],
+			[
+				"bro",
+				"angular: $broadcast"
+			],
+			[
+				"__",
+				"__org"
+			],
+			[
+				"Zimm",
+				"Zimmer"
+			],
+			[
+				"db",
+				"debug	console log"
+			],
+			[
+				"zi",
+				"zimBelegung"
+			],
+			[
+				"Reserv",
+				"Reservierungen"
+			],
+			[
+				"dash",
+				"dashboard"
+			],
+			[
+				"Erwache",
+				"Erwachsene"
+			],
+			[
+				"Arflin",
+				"Arflina_A"
+			],
+			[
+				"update",
+				"updateListe"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pass",
+				"passwort"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"Zimmer",
+				"ZimmerReservierung"
+			],
+			[
+				"Erw",
+				"Erwachsene"
+			],
+			[
+				"Arflina",
+				"Arflina"
+			],
+			[
+				"kid",
+				"kidz"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"con",
+				"contentContainer"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"text",
+				"textFitBox"
+			],
+			[
+				"ang",
+				"angular.element"
+			],
+			[
+				"Erwach",
+				"ErwachsenEssen"
+			],
+			[
+				"Kinder",
+				"KinderEssen"
+			],
+			[
+				"Erwac",
+				"ErwachsenEssen"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"_bo",
+				"_bookingsTXT"
+			],
+			[
+				"_erw",
+				"_erwachsene"
+			],
+			[
+				"gu",
+				"guestCard"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"val",
+				"value	Angular.js"
+			],
+			[
+				"Event",
+				"Event_E"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"prin",
+				"printRow"
+			],
+			[
+				"adress",
+				"adresseMail"
+			],
+			[
+				"mailForm",
+				"mailFormat"
+			],
+			[
+				"for",
+				"forEach	Angularjs for each"
+			],
+			[
+				"check",
+				"checkName"
+			],
+			[
+				"Arflina_",
+				"Arflina_A"
+			],
+			[
+				"view",
+				"viewCenter"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"removeC",
+				"angular: removeClass"
+			],
+			[
+				"add",
+				"addback	.addBack()"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"heu",
+				"heuberge"
+			],
+			[
+				"fa",
+				"factory	Angular.js"
+			],
+			[
+				"angular",
+				"angular.copy"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"model",
+				"dataModel"
+			],
+			[
+				"guestDa",
+				"guestDataLoaded"
+			],
+			[
+				"on",
+				"angular: on"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"eventD",
+				"eventDataGast"
+			],
+			[
+				"even",
+				"eventDataOrga"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"post",
+				"posts"
+			],
+			[
+				"resut",
+				"results"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"j",
+				"json_decode"
+			],
+			[
+				"$time",
+				"$timeout	AngularJS"
+			],
+			[
+				"$tim",
+				"angular: $timeout"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"admin",
+				"admin-box"
+			],
+			[
+				"an",
+				"angular	Angular.js"
+			],
+			[
+				"ne",
+				"newGuest"
+			],
+			[
+				"nth",
+				"nth-of-type"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"field",
+				"fieldset-functions"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"modal",
+				"modalType"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"menu",
+				"menuWidth"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"s",
+				"flex-start"
+			],
+			[
+				"ro",
+				"row-reverse"
+			],
+			[
+				"leng",
+				"length"
+			],
+			[
+				"vor",
+				"vorzug"
+			],
+			[
+				"debug",
+				"debug	console log"
+			],
+			[
+				"che",
+				"checkZimmer"
+			],
+			[
+				"te",
+				"textBox"
+			],
+			[
+				"lis",
+				"listKontakt"
+			],
+			[
+				"log",
+				"login-container"
+			],
+			[
+				"d",
+				"datastorage"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"i",
+				"list-item"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"textFit",
+				"textFitBox"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"offset",
+				"offsetParent	.offsetParent()"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"ng-",
+				"ng-view"
+			],
+			[
+				"scrol",
+				"webkit-overflow-scrolling"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"center",
+				"centerElm"
+			],
+			[
+				"lo",
+				"login-container"
+			],
+			[
+				"succe",
+				"success"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\nGulp\n----\n\n     _____       _       \n    / ____|     | |      \n   | |  __ _   _| |_ __  \n   | | |_ | | | | | '_ \\ \n   | |__| | |_| | | |_) |\n    \\_____|\\__,_|_| .__/ \n                  | |    \n                  |_|    \n  \n  \n  Sorry to interrupt\n  ==================\n  \n  First of all, thanks for installing sublime-gulp!\n  \n  You can start using it now by choosing 'Gulp' from your command pallete or selecting one of the available snippets.\n  \n  If you want to know a bit more of what you can do with the package you can:\n  \n  * Check the package settings on Preference -> Package Settings -> Gulp -> Settings - Default\n  \n  * Take a look at the README at: https://github.com/NicoSantangelo/sublime-gulp \n  \n  \n  For issues or feature requests, head over to https://github.com/NicoSantangelo/sublime-gulp/issues\n  \n  Thanks again!\n",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"gulp",
+				"Gulp (silent)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"hmt",
+				"HTMLBeautify"
+			],
+			[
+				"WRA",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"WAR",
+				"View: Toggle Side Bar"
+			],
+			[
+				"war",
+				"View: Toggle Side Bar"
+			],
+			[
+				"w",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"div",
+				"Bower: Discover packages"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"CleanCSS: Clean current file"
+			],
+			[
+				"in",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Text Pastry: Menu"
+			],
+			[
+				"W",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"mak",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"ed",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snip",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"sn",
+				"Snippet: placeholder"
+			],
+			[
+				"pprett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"PRETT",
+				"HTMLPrettify"
+			],
+			[
+				"auto",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"au",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"rett",
+				"HTMLPrettify"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"prit",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"pritt",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"bower",
+				"Bower: Install"
+			],
+			[
+				"bow",
+				"Bower: Install"
+			],
+			[
+				"t",
+				"TidyHTML"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker: Insert Color"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"aa",
+				"z:AAAPackageDev: New Raw Snippet"
+			],
+			[
+				"control",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"s",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/web/node/app.js",
+		"/Volumes/web/node/präsi/app.js",
+		"/Volumes/web/node/Procfile",
+		"/Volumes/web/node/public/index.html",
+		"/Volumes/web/node/_app.js",
+		"/Volumes/web/node/__app.js",
+		"/Users/matze423/Desktop/data.jb64",
+		"/Volumes/web/web/wedding/api/v1/dbPostController.php",
+		"/Volumes/web/web/wedding/css/admin.css",
+		"/Volumes/web/web/wedding/css/_admin Kopie.css",
+		"/Volumes/web/web/wedding/partials/navigation_admin.html",
+		"/Volumes/web/web/wedding/partials/admin_nav.html",
+		"/Volumes/web/web/wedding/partials/printlist.html",
+		"/Volumes/web/web/wedding/partials/guestlist_insight.html",
+		"/Volumes/web/web/wedding/partials/guestlist.html",
+		"/Volumes/web/web/wedding/css/base.css",
+		"/Volumes/web/web/wedding/partials/anmeldung.html",
+		"/Volumes/web/web/wedding/partials/home.html",
+		"/Volumes/web/web/wedding/app/layout.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pad",
+			"path",
+			"chromy",
+			"answer",
+			"item",
+			"eventDataGast.Adresse.",
+			"eventDataGast",
+			"eventDataGast.Adresse",
+			"Fleisch",
+			"Vegi",
+			"Fleisch",
+			"zimmer",
+			"toString",
+			"eventDataOrga.Zimmer",
+			"listCtrl",
+			"colspan=\"2\" ",
+			"div ",
+			"td",
+			"tr",
+			"table",
+			"flag",
+			"mailSubject",
+			"booking",
+			"insightCtrl",
+			"Zimmer",
+			"upadateGuest",
+			"foodP",
+			"  <",
+			"div",
+			"activ",
+			"sel",
+			"printInvatation",
+			"lsitC",
+			"prinrdata",
+			"div",
+			">\n",
+			"div",
+			"zimmer",
+			"div",
+			"Zimmer",
+			"item",
+			"Adresse",
+			"eventDataGast",
+			"...",
+			"..",
+			"$scope",
+			"value.",
+			"get",
+			"Gast",
+			"g",
+			"GETlist",
+			"listCtrl",
+			"listCtr",
+			"td",
+			"tr",
+			"table",
+			"insight",
+			"Reservation",
+			"item",
+			"calcGuestList",
+			"guestsAll",
+			"gueastAll",
+			"listCtrl",
+			"<span>",
+			"insi",
+			"insight",
+			"cal",
+			"berechneg",
+			"guestCtr",
+			"zimmerRes",
+			"hideGuest",
+			"guestLis",
+			"stimmt",
+			"da stimmt",
+			"kat",
+			"ZiNr",
+			"td",
+			"booking",
+			"insig",
+			"ngPage",
+			"_zimmer",
+			"_ret",
+			"__org.Zimmer",
+			"2x2er Zimmer",
+			"Zimmer",
+			"false",
+			"anzahlPersonen",
+			"calc",
+			"insight",
+			"p>",
+			"<p",
+			"p",
+			"functions",
+			"auth.pass",
+			"auth",
+			"_booking",
+			"calc",
+			"searchf",
+			"pageCtrl",
+			"save",
+			"div",
+			"drucken",
+			"druckn",
+			"navCtrl",
+			"print",
+			"printdata",
+			"drucken",
+			"navCtrl",
+			":",
+			",",
+			"getData",
+			"das",
+			"userdata",
+			"nav",
+			"a-field",
+			"insight",
+			"listCtrl",
+			"foodGuestErw",
+			"Erw:",
+			"erw",
+			"Erw",
+			"erwachsene",
+			" $scope.isMenuOpen",
+			"$scope.showNav",
+			"$scope.navShow",
+			"$scope.showNav",
+			"navCtrl",
+			"pageCtrl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"div",
+			"'\n      'Beschrieb':'6er - 12er Lager',\n      'Preis': '51.- CHF/Nacht',\n      'AnzahlBetten' : ['6er', '7ner', '10ner', '12er'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Lager',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      },\n 'Arflina_1' : {  \n      'Beschrieb':'2er - 4er Zimmer mit Lavabo',\n      'Preis': '68.- CHF/Nacht',\n      'AnzahlBetten' : ['2er', '3ner', '4ner'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Zimmer',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      },\n 'Arflina_1' : {  \n      'Beschrieb':'2er - 4er Zimmer ohne Lavabo',\n      'Preis': '58.- CHF/Nacht',\n      'AnzahlBetten' : ['2er', '4er'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Lager',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      }\n}",
+			"\"\n      'Beschrieb':'6er - 12er Lager',\n      'Preis': '51.- CHF/Nacht',\n      'AnzahlBetten' : ['6er', '7ner', '10ner', '12er'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Lager',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      },\n 'Arflina_1' : {  \n      'Beschrieb':'2er - 4er Zimmer mit Lavabo',\n      'Preis': '68.- CHF/Nacht',\n      'AnzahlBetten' : ['2er', '3ner', '4ner'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Zimmer',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      },\n 'Arflina_1' : {  \n      'Beschrieb':'2er - 4er Zimmer ohne Lavabo',\n      'Preis': '58.- CHF/Nacht',\n      'AnzahlBetten' : ['2er', '4er'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Lager',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      }\n}",
+			"{ \"heuberge\" : {  \n      'Beschrieb':'6er - 12er Lager',\n      'Preis': '51.- CHF/Nacht',\n      'AnzahlBetten' : ['6er', '7ner', '10ner', '12er'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Lager',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      },\n 'Arflina_1' : {  \n      'Beschrieb':'2er - 4er Zimmer mit Lavabo',\n      'Preis': '68.- CHF/Nacht',\n      'AnzahlBetten' : ['2er', '3ner', '4ner'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Zimmer',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      },\n 'Arflina_1' : {  \n      'Beschrieb':'2er - 4er Zimmer ohne Lavabo',\n      'Preis': '58.- CHF/Nacht',\n      'AnzahlBetten' : ['2er', '4er'],\n      'ZimmerNummer' : '',\n      'Gebucht' : '0',\n      'Type' : 'Lager',\n      'Detail' : '',\n      'Bild' : '',\n      'Template': '',\n      'Belegung' : [],\n      'Bevorzugt' : []\n      }\n}",
+			"'",
+			"nl-form"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.724706247928,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 434.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
